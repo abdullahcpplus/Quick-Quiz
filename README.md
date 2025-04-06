@@ -4,7 +4,7 @@ This is software that ask 10 questions from you. If will you give correct answer
 For pass this quiz you should to get at least 6 numbers.
 Here's Some sereecshots.
 
-![quiz1](https://github.com/user-attachments/assets/540e4a9e-d52c-4271-851c-256b018dc981)
+![quiz1](https://github.com/user-attachments/assets/9edbbd73-af31-4286-b387-dd698275b36f)
 
 ![quiuz3](https://github.com/user-attachments/assets/9fc8e893-faaa-4dd9-a9db-526a1eca6b78)
 
